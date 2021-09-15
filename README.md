@@ -27,3 +27,5 @@ But they're not reflected in `book.pdf`.
     }
 }
 ```
+
+![](screenshot.png)
